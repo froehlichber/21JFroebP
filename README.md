@@ -5,4 +5,4 @@ Jupiter Project by Manning
 
 The file has been connected with RStudio .
 
-Uodate of rework in 2023. Manually directly from console.
+Update of rework in 2023. Manually directly from console.
